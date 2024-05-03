@@ -9,7 +9,7 @@ export default function RightCard() {
         <h6 className="card-title header__category text-muted">
           PRO 
         </h6>
-        <h2 className="card-subtitle">$9/Month</h2>
+        <h2 className="card-subtitle">$49/Month</h2>
         <hr />
         
         
