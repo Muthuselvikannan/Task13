@@ -1,0 +1,49 @@
+body {
+    background-color: #91eef5;
+  }
+  .card:hover {
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  }
+  .card:hover > .hr {
+    width: 50% !important;
+    color: #066c6a !important;
+    padding: 2px !important;
+  }
+  
+  .header__category {
+    text-align: center;
+    font-weight: bold;
+  }
+  .card-subtitle {
+    text-align: center;
+    font-weight: bold;
+  }
+  hr {
+    color: gray;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .button__width {
+    width: 70%;
+  }
+  .mergeIcons {
+    display: flex;
+    align-content: center;
+    padding-top: 10px;
+  }
+  
+  .first__condition {
+    font-weight: bold;
+    flex: 0.9;
+  }
+  
+  .card {
+    border-radius: 15px;
+    margin-bottom: 15px;
+  }
+  .button__width:hover {
+    color: black;
+    background-color: white;
+   
+  }
+  
